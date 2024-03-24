@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">foodapp</string>
+    <string name="price_format">Price: $%.2f</string>
+    <string name="food_description">Food Description</string>
+    <string name="food_image">Food Image</string>
+    <string name="food_name">Food Name</string>
+    <string name="price_0_00">Price: $0.00</string>
+    <string name="welcome_to_food_app">Welcome to Food App</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="total_price_format">Total Price: $%.2f</string>
+    <string name="total_format">Total: $%.2f</string>
+
+</resources>

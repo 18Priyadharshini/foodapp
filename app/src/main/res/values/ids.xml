@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkoutButton" type="id" />
+    <item name="foodListView" type="id" />
+    <item name="titleTextView" type="id" />
+    <item name="totalPriceTextView" type="id" />
+    <item name="totalTextView" type="id" />
+    <item name="placeOrderButton" type="id" />
+</resources>
